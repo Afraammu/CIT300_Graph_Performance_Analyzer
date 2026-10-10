@@ -217,16 +217,15 @@ Examples include:
 * Displaying messages when a stack or queue is empty.
 * Providing instructions when users enter invalid menu choices.
 
-## 12. Group Members and Contributions
+### Team Members and Contributions
 
-| Member Name | Student ID | Contribution                                                       |
-| ----------- | ---------- | ------------------------------------------------------------------ |
-| Afra        | 23DA2-0992 | Array Operations and Searching Algorithms                          |
-| Aslam       | 23DA2-0771 | Stack and Queue Operations                                         |
-| Nuha        | 23DA2-0988 | Linked List Operations                                             |
-| Aksha       | 23DA2-1103 | Graph Operations, BFS, DFS, Performance Comparison and Integration |
+* **Afra (23DA2-0992):** Array operations and searching algorithms.
+* **Aslam (23DA2-0771):** Stack and queue implementation and testing.
+* **Nuha (23DA2-0988):** Linked list implementation and testing.
+* **Aksha (23DA2-1103):** Graph implementation, traversal algorithms, and performance analysis.
 
-*Note: Update the contribution descriptions if the actual work distribution differs.*
+*Note: Contributions should reflect the work actually completed by each team member.*
+
 
 ## 13. GitHub Repository
 
